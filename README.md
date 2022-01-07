@@ -1,2 +1,2 @@
 # git-framework
-Automation Framework created by me.
+This is an hybrid Automation Framework created by me.
